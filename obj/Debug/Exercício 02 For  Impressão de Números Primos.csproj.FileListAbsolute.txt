@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Exercício 02 For  Impressão de Números Primos\bin\Debug\Exercício 02 For  Impressão de Números Primos.exe.config
+C:\Users\Ornare\source\repos\Exercício 02 For  Impressão de Números Primos\bin\Debug\Exercício 02 For  Impressão de Números Primos.exe
+C:\Users\Ornare\source\repos\Exercício 02 For  Impressão de Números Primos\bin\Debug\Exercício 02 For  Impressão de Números Primos.pdb
+C:\Users\Ornare\source\repos\Exercício 02 For  Impressão de Números Primos\obj\Debug\Exercício 02 For  Impressão de Números Primos.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 02 For  Impressão de Números Primos\obj\Debug\Exercício 02 For  Impressão de Números Primos.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 02 For  Impressão de Números Primos\obj\Debug\Exercício 02 For  Impressão de Números Primos.exe
+C:\Users\Ornare\source\repos\Exercício 02 For  Impressão de Números Primos\obj\Debug\Exercício 02 For  Impressão de Números Primos.pdb
